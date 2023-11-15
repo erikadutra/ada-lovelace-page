@@ -25022,3 +25022,8 @@
   .u-bottom-left-radius-50 {
     --border-bottom-left-radius: 50px;
   }
+
+  .bold {
+    font-weight: bolder;
+    font-size: 50px;
+  }
